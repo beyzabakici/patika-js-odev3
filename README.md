@@ -1,0 +1,2 @@
+# patika-js-odev3
+PATIKA JAVASCRIPT EGITIMI 3.ODEV
